@@ -1,0 +1,169 @@
+.banner {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+
+    border-radius: 16px;
+    background-position: center;
+
+    padding: 140px;
+    width: 82%;
+    max-width: 1320px;
+    margin: 0 auto;
+
+}
+
+.banner-font {
+
+    background: linear-gradient(180deg, #0c041b 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 16px;
+    padding: 170px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.banner-greeting {
+    font-family: 'Meriweather', serif;
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+.banner-msg {
+    font-family: 'Meriweather', serif;
+    color: #fff;
+    text-align: center;
+    font-size: 72px;
+    margin-top: 16px;
+}
+
+.off-font {
+    font-family: 'Meriweather', serif;
+    font-size: 88px;
+    color: red;
+    text-align: center;
+    margin-top: auto;
+}
+
+.holiday {
+    font-size: 24px;
+    color: red;
+    text-align: center;
+    margin-top: 16px;
+}
+
+.all {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 16px;
+}
+
+.font-content {
+    background-image: url(../resources/New\ Year\ Photo.png);
+    background-repeat: no-repeat;
+
+    max-width: 802.9px;
+    background-position: 1076px 399px;
+
+    margin-top: 151px;
+    margin: 0 auto;
+    width: 52%;
+}
+
+.section-title {
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 140px;
+    width: 82%;
+
+
+
+}
+
+div li {
+    list-style: none;
+    margin-top: 10px;
+}
+
+div a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 64px;
+    text-wrap: nowrap;
+}
+
+.btn-primary {
+    background-color: none;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600px;
+
+}
+
+.about {
+    padding: 130px;
+    border-radius: 10ppx;
+    background: #FF0000, #FF000000;
+    margin: 130px 0px;
+}
+
+.text-primary {
+    color: #FF0000;
+
+
+}
+
+.btn-time {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    border: none;
+    margin: ;
+    size: 20px;
+}
+
+.about {
+    text-align: center;
+    font-size: 32px;
+}
+
+.offer {
+    background: #9e3838, #FF000000;
+    background-image: url(../resources/Ellipse\ 1.png), url(../resources/Group\ 96.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Meriweather', serif;
+    text-align: left;
+    padding: 100px;
+    
+    margin: 130px 0px;
+}
+
+.offer-des {
+    color: #FF0000;
+    font-size: 24px;
+    font-family:
+        Inter;
+}
+
+.come {
+    font-family: 'Meriweather', serif;
+    font-size: 48px;
+}
+
+.other {
+    font-family: inter;
+    font-size: 20px;
+}
+
+.year {
+    color: #FF0000;
+    font-family: inter;
+    font-size: 48px;
+    text-align: right;
+    margin-bottom: auto;
+
+}
